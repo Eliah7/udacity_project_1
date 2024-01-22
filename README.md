@@ -7,3 +7,5 @@
 2. Are there any correlations between factors such as age, education, or years of experience with the technologies developers choose to use?
 
 3. Which countries have the most professional developers?
+
+# Blog Post - https://medium.com/@eliahmbwilo7/unveiling-insights-from-the-stack-overflow-developer-survey-2017-ba5915740245
