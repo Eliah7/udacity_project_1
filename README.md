@@ -6,4 +6,4 @@
 
 2. Are there any correlations between factors such as age, education, or years of experience with the technologies developers choose to use?
 
-3. What were the primary factors contributing to job satisfaction among developers in 2017 according to the survey? Did certain factors, such as salary, work-life balance, or the type of projects, play a more significant role in influencing career decisions?
+3. Which countries have the most professional developers?
