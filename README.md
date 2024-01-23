@@ -3,7 +3,7 @@
 This project was implemented using Python programming language and leveraged popular data science libraries such as Pandas, NumPy, and Matplotlib for data analysis and visualization. The Jupyter Notebook served as the primary environment for running queries and generating insights from the Stack Overflow Developer Survey, 2017 dataset.
 
 ## File Description 
-Stack_Overflow_Survey_Analysis.ipynb: Jupyter Notebook containing the code, queries, and visualizations used for the analysis of the Stack Overflow Developer Survey, 2017 dataset.
+Stack_Overflow.ipynb: Jupyter Notebook containing the code, queries, and visualizations used for the analysis of the Stack Overflow Developer Survey, 2017 dataset.
 
 ## Project Motivation 
 The main motivation behind this project was to explore and extract meaningful insights from the Stack Overflow Developer Survey, 2017. By addressing key questions related to programming languages, developer demographics, and the global distribution of professional developers, the analysis aims to contribute valuable knowledge to the developer community and the broader field of software development.
